@@ -122,7 +122,7 @@ FROM cte
 
 ### Data Visualization
 
-
+![ProductAnalyticsDashboardScreenshot](/ProductAnalyticsDashboardScreenshot.png?raw=true&sanitize=true "Dashboard Visualization Screenshot")
 
 ### Key Findings
 
